@@ -1,1 +1,2 @@
-# ectc_mern
+backend -> npm run dev
+frontend -> npm start
